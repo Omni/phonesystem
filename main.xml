@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
+    <Say voice="alice" language="en-GB">Hello and thanks for calling Omni! I'm afraid that our team is helping other callers at the moment, however we will be with you in just a moment. Thanks for your patience!</Say>
     <Dial>+447952142629</Dial>
 </Response>
